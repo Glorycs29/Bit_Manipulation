@@ -1,6 +1,6 @@
 # Bit_Manipulation
 
-- [Single Number II]()
+- [Single Number II](https://github.com/Glorycs29/Bit_Manipulation/tree/main/Single%20Number%20II%20)
 - []()
 - []()
 - []()
